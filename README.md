@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=green" height="25"/>
 	<img src="https://img.shields.io/badge/apache-FB7A24.svg?&style=for-the-badge&logo=apache&logoColor=brown" height="25"/>
 	<img src="https://img.shields.io/badge/aws-243afb.svg?&style=for-the-badge&logo=azure&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm&logoColor=white" height="25"/>
+	
   <p/>
 <img src="https://github-readme-stats.vercel.app/api?username=shivamsoin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
