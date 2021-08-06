@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Devops Skills
 - 🌱 Shell Scripting ,Python, Java, Docker and much more to find out...!!
 - 📫 How to reach me: LinkedIn - [Shivam](https://www.linkedin.com/in/shivamsoin0408)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Well, I'll tell you one if I think enough on this.
 <br/>
 <p align="left">
