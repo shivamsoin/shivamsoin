@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/aws-243afb.svg?&style=for-the-badge&logo=azure&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/git-E84E31.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/java-green.svg?&style=for-the-badge&logo=java&logoColor=black" height="25"/>
 	
   <p/>
 <img src="https://github-readme-stats.vercel.app/api?username=shivamsoin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
